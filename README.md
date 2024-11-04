@@ -1,6 +1,9 @@
 # Golden-Rewind-Install
 
-Multi MC / Prism MC or any fork
+||Installing main jar
+Just get the jar in any for any select version or select "source code" for all versions up to point on github
+
+|| Multi MC / Prism MC or any fork
 1. Click "Add instance" and select 1.2.5 and name it Golden Rewind
 2. Click Edit the instance
 3. Click "Add to Minecraft.jar" (not a loader mod)
@@ -8,7 +11,7 @@ Multi MC / Prism MC or any fork
 5. Press "Confirm"
 6. (Optional) switch to Java 1.8
 7. Enjoy!
-Codex Ipsa (Manual)
+|| Codex Ipsa (Manual)
 1. Click "New Profile" and name it Golden Rewind
 2. Select 1.2.5 (1.2.5 pre)
 3. Click Edit Instance
