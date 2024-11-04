@@ -11,6 +11,7 @@ Just get the jar in any for any select version or select "source code" for all v
 5. Press "Confirm"
 6. (Optional) switch to Java 1.8
 7. Enjoy!
+
 || Codex Ipsa (Manual)
 1. Click "New Profile" and name it Golden Rewind
 2. Select 1.2.5 (1.2.5 pre)
